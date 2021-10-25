@@ -7,5 +7,9 @@
   },
   "devDependencies": {
     "nuxt3": "latest"
+  },
+  "dependencies": {
+    "@houdini-css-paint/depth-spiral": "^0.1.1",
+    "houdini-noise": "^0.0.5"
   }
 }
